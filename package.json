@@ -1,0 +1,22 @@
+{
+  "name": "matches-selector",
+  "description": "Element#matches polyfill",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "David Sturley",
+    "organization": "Deque Systems, Inc.",
+    "url": "http://deque.com/"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "blanket": "~1.1.6",
+    "chai": "~1.9.1",
+    "mocha": "~1.18.2",
+    "grunt-blanket-mocha": "~0.3.1",
+    "grunt-contrib-connect": "~0.7.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-mocha": "~0.4.10"
+  }
+}

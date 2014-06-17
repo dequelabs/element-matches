@@ -1,0 +1,17 @@
+{
+  "name": "matches-selector",
+  "version": "0.0.1",
+  "authors": [
+    "David Sturley <david.sturley@deque.com>"
+  ],
+  "description": "Element#matches polyfill",
+  "private": true,
+  "main": "lib/index.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "build"
+  ],
+  "dependencies": {}
+}
