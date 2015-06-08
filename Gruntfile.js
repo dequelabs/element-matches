@@ -13,7 +13,7 @@ module.exports = function (grunt) {
 		pkg: grunt.file.readJSON('package.json'),
 		watch: {
 			files: ['lib/**/*', 'test/**/*'],
-			tasks: ['concat']
+			tasks: ['test']
 		},
 		connect: {
 			test: {
