@@ -1,5 +1,5 @@
 {
-  "name": "matches-selector",
+  "name": "element-matches",
   "description": "Element#matches polyfill",
   "version": "0.0.1",
   "license": "MPL-2.0",

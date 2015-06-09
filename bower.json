@@ -1,5 +1,5 @@
 {
-  "name": "matches-selector",
+  "name": "element-matches",
   "version": "0.0.1",
   "authors": [
     "David Sturley <david.sturley@deque.com>"
